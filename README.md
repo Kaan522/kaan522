@@ -9,5 +9,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35" height="35"/>
+  <img height="30" src="https://camo.githubusercontent.com/36e8ddc2cc525629d5b25538fbd4a1ac43498b4dd3093b46eaddc98637a22210/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6331343433383f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-c14438?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://github.com/Kaan522/kaan522/blob/main/github-contribution-grid-snake.svg"/>
 </p>
