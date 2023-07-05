@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35" height="35"/>
-  <img src="https://open.spotify.com/playlist/6JlJYoLdmnUzyK1vWN2Qfr/width="35" height="35/>
+  <img src="https://camo.githubusercontent.com/215075b0a08a1cfaa6ae77fdd5c6cbe724db13f97cfc068f39df461ff9f1ec69/68747470733a2f2f73706f746966792d6769746875622d6164697479612e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" width="300" data-canonical-src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" style="max-width: 100%;">
   <img height="155"
   <img src="https://github.com/Kaan522/kaan522/blob/main/github-contribution-grid-snake.svg"/>
 </p>
