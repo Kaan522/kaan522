@@ -1,6 +1,6 @@
 <p align="center">
   <h2>GitHub Stats</h2>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaan522&show_icons=true&theme=tokyonight" alt="Kaan's GitHub Stats" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=kaan522&show_icons=true&theme=tokyonight" alt="Kaan's GitHub Stats" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaan522&theme=tokyonight" alt="Kaan's Streak Stats" />
 </p>
 
