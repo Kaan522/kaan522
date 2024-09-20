@@ -33,16 +33,3 @@ I'm a **Linux enthusiast** and passionate about **low-level programming** with *
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</div>
-
-<p align="center">
-  <img height="155" src="https://github.com/Kaan522/kaan522/blob/main/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
