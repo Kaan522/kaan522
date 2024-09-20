@@ -1,21 +1,47 @@
-<p align="center">
-  <h2>GitHub Stats</h2>
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=kaan522&show_icons=true&theme=tokyonight" alt="Kaan's GitHub Stats" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaan522&theme=tokyonight" alt="Kaan's Streak Stats" />
-</p>
+# 💻 Welcome to My GitHub!
 
-<p align="center">
-  <h2>Technologies</h2>
-  <span style="padding-left: 65px;">  <!-- Simgeleri sağa kaydırmak için padding ekledim -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="35" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35" height="35" />
-  </span>
-</p>
+![Linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **Linux enthusiast** and passionate about **low-level programming** with **C** and **C++**. I enjoy automating tasks using **shell scripting** and exploring the depths of systems programming. 
+
+- 🌱 **Currently learning:** Advanced algorithms, performance optimization
+- 💬 **Ask me about:** Linux, C, C++, Shell scripting
+- ⚡ **Fun fact:** I love debugging as much as I love coding!
+
+---
+
+### 🚀 My Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</div>
 
 <p align="center">
   <img height="155" src="https://github.com/Kaan522/kaan522/blob/main/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
